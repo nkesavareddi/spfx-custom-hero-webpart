@@ -1,0 +1,21 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "Hero Layout Webpart",
+    "id": "5efc0426-3e59-4fc7-b638-73eb77aaf788",
+    "version": "1.2.0.1",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "Nishanth Kesavareddi",
+      "websiteUrl": "https://linkedin.com/in/nishanth-k-456b57116",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": ""
+    }
+  },
+  "paths": {
+    "zippedPackage": "solution/hero-webpart.sppkg"
+  }
+}
